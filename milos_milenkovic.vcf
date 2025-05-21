@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Milenković;Miloš;;;
+FN:Miloš Milenković
+TITLE:Zamenik direktora
+ORG:Euroteamlogist d.o.o.
+TEL;WORK;VOICE:+381112015746
+TEL;WORK;FAX:+381112108166
+TEL;CELL:+381603585505
+EMAIL;INTERNET:milenkovic.miloš@etl.rs
+ADR;WORK:;;Zmajeva br.12V;Zemun;;;
+URL:http://www.etl.rs/
+PHOTO;VALUE=URI:https://raw.githubusercontent.com/4printsrb/profilna.png/612c800/baner.png
+END:VCARD
